@@ -1,4 +1,5 @@
 #!/bin/bash
+##This needs to be placed in /storage/.config
 ## You can kill this service to skip the Lakka Gui completely and load your specific rom from scratch
 #systemctl stop retroarch-autostart.service;
 
