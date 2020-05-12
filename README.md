@@ -7,6 +7,5 @@ autostart.sh will need to be copied into /storage/.config/autostart.sh
 
 I have placed random1.sh in /storage/roms/scripts/ (autostart.sh points to this.)
 
-In the sub-folder  /storage/roms/scripts/run_scripts I have placed scripts to run specific roms that I like, random1.sh randomly picks one upon 
-bootup.
+In the sub-folder  /storage/roms/scripts/run_scripts I have created scripts for specific roms that I actually like, then random1.sh randomly picks one upon bootup.
 
