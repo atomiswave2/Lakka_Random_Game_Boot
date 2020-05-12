@@ -1,7 +1,7 @@
 # Lakka_Random_Game_Boot
 Do you hate having to choose a game? Not sure what game you feel like playing when you start your emulation station?
 
-This will pick a random rom file for the Lakka Linux Distro when you turn on your computer/
+This will pick a random rom file for the Lakka Linux Distro when you turn on your computer!
 
 autostart.sh will need to be copied into /storage/.config/autostart.sh
 
