@@ -9,3 +9,6 @@ I have placed random1.sh in /storage/roms/scripts/ (autostart.sh points to this.
 
 In the sub-folder  /storage/roms/scripts/run_scripts I have created scripts for specific roms that I actually like, then random1.sh randomly picks one upon bootup.
 
+I have placed neogeo.wav in the /storage/roms/ directory using aplay to run as Lakka Linux is very stripped down os and you cannot write to the Operating System itself, nor install any new apps.
+
+Note: this has worked on other versions of linux as well.
